@@ -1,3 +1,8 @@
+## Mohammed Baskhanov / basmdev
+
+### About me
+I'm Backend Python Developer
+
 ### Technologies
 
 [![Python](https://img.shields.io/badge/Python-FFDF5B?style-for-the-badge&logo=python)](https://www.python.org/)
