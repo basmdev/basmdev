@@ -8,3 +8,6 @@
 ![SQLite](https://img.shields.io/badge/SQL-044A64?style-for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style-for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-778877?style-for-the-badge&logo=sqlalchemy)
+![JSON](https://img.shields.io/badge/JSON-3C3C3C?style-for-the-badge&logo=json)
+![Nginx](https://img.shields.io/badge/Nginx-009900?style-for-the-badge&logo=nginx)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-90BCFC?style-for-the-badge&logo=bootstrap)
