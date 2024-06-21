@@ -1,6 +1,6 @@
 ### Technologies
 
-![Python](https://img.shields.io/badge/Python-FFDF5B?style-for-the-badge&logo=python)
+[![Python](https://img.shields.io/badge/Python-FFDF5B?style-for-the-badge&logo=python)](https://www.python.org/)
 ![Django](https://img.shields.io/badge/Django-0C4B33?style-for-the-badge&logo=django)
 ![Docker](https://img.shields.io/badge/Docker-00084D?style-for-the-badge&logo=docker)
 ![Flask](https://img.shields.io/badge/Flask-3CAABF?style-for-the-badge&logo=flask)
