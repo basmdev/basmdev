@@ -11,3 +11,4 @@
 ![JSON](https://img.shields.io/badge/JSON-3C3C3C?style-for-the-badge&logo=json)
 ![Nginx](https://img.shields.io/badge/Nginx-009900?style-for-the-badge&logo=nginx)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-90BCFC?style-for-the-badge&logo=bootstrap)
+![FastAPI](https://img.shields.io/badge/FastAPI-3C3C3C?style-for-the-badge&logo=fastapi)
