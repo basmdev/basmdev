@@ -11,3 +11,7 @@
 ![JSON](https://img.shields.io/badge/JSON-3C3C3C?style-for-the-badge&logo=json)
 ![Nginx](https://img.shields.io/badge/Nginx-009900?style-for-the-badge&logo=nginx)
 ![FastAPI](https://img.shields.io/badge/FastAPI-3C3C3C?style-for-the-badge&logo=fastapi)
+
+### Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-3C3C3C?style-for-the-badge&logo=telegram)](https://t.me/basmdev)
