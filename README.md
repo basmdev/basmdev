@@ -17,4 +17,3 @@
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-3C3C3C?style-for-the-badge&logo=telegram)](https://t.me/basmdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C3C3C?style-for-the-badge&logo=linkedin)](https://www.linkedin.com/in/basmdev/)
